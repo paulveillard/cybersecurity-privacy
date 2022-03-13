@@ -89,6 +89,8 @@ An ongoing & curated collection of awesome software best practices and technique
 * [Gaming](#gaming)
 * [Other](#other)
 
+**[`^        back to top        ^`](#)**
+
 ## Search engines
 
 * [DuckDuckGo](https://duckduckgo.com) – A US-based search engine that respects the privacy of its users.
@@ -98,6 +100,8 @@ An ongoing & curated collection of awesome software best practices and technique
 * [Qwant](https://www.qwant.com) – A search engine that respects your privacy.
 * [YaCy](https://yacy.net) – A free, open source and decentralized search engine.
 * [Swisscows](https://swisscows.com) – A private search engine made in Switzerland.
+
+**[`^        back to top        ^`](#)**
 
 ## Web browsers
 
@@ -138,6 +142,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) – An extension that alters some JS APIs to prevent fingerprinting.
 * [Snowflake](https://snowflake.torproject.org) – An extension that turns your browser into a proxy that connects Tor users in censored regions to the Tor network.
 
+**[`^        back to top        ^`](#)**
+
 ## Email
 
 ### Providers
@@ -163,6 +169,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [p≡p](https://www.pep.security) – Free and open source email client for Android and iOS.
 * [Kube](https://kube-project.com) – A modern communication and collaboration client for Linux and macOS.
 
+**[`^        back to top        ^`](#)**
+
 ### Encryption
 
 * [GnuPG](https://www.gnupg.org) – Encrypt and sign your data and communications.
@@ -170,6 +178,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [GPG4Win](https://www.gpg4win.org) – An open source GnuPG front-end for Windows.
 * [Enigmail](https://www.enigmail.net) – Encrypt/decrypt and digitally sign your emails in Thunderbird, Postbox and Interlink.
 * [Mailvelope](https://www.mailvelope.com) – A browser extension to securely encrypt your emails with PGP using webmail providers.
+
+**[`^        back to top        ^`](#)**
 
 ### Aliases
 
@@ -185,6 +195,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Mailsac](https://mailsac.com) – Open source disposable email hosting.
 * [inboxkitten](https://inboxkitten.com) – Open source disposable email.
 
+**[`^        back to top        ^`](#)**
+
 ### Self-hosting
 
 * [Mail-in-a-Box](https://mailinabox.email) – An easy-to-deploy mail server in a box.
@@ -192,6 +204,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Roundcube](https://roundcube.net) – A web-based IMAP email client.
 * [Mailpile](https://www.mailpile.is) – A fast web-mail client with user-friendly encryption and privacy features.
 * [RainLoop](https://www.rainloop.net) – A simple, modern & fast web-based email client.
+
+**[`^        back to top        ^`](#)**
 
 ## Operating systems
 
